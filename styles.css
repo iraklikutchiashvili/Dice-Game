@@ -37,6 +37,9 @@
     color: #EEEEEE;
     text-align: center;
     font-family: 'Indie Flower', cursive;
-  
   }
   
+  button {
+    color: white;
+    background-color: #4ECCA3;
+  }
